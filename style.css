@@ -1,0 +1,18 @@
+#table-three {
+  border: 1px solid black;
+  margin-bottom: 20px;
+  font-family: arial;
+  font-size: 14px;
+}
+
+#table-three th, #table-three td {
+  border: 1px solid black;
+}
+
+#table-three tr:nth-child(2) {
+  font-weight: bold;
+}
+
+#table-three td {
+  padding-right: 50px;
+}
